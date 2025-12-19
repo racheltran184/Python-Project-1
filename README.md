@@ -1,7 +1,7 @@
 
 # 🏡 Predictive Analytics: Airbnb Pricing in Melbourne
 ### ⭐ *1st Place — BUSA8001 Predictive Analytics Competition (105 Teams)*
-[Acknowledgment Letter](Acknowledgment_Letter.pdf)
+[![Award & Credits](https://img.shields.io/badge/Award_&_Credits-View_Letter-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](Acknowledgment_Letter.pdf)
 
 ## 📌 Project Overview
 
