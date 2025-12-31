@@ -46,8 +46,7 @@ Visual analysis of 7,000+ listings across Melbourne reveals clear geographic pri
 ---
 
 ## ⚙️ The Core Innovation: A 5-Stage Engineering Pipeline
-
-The core strength of this project lies in a carefully structured five-stage data pipeline that treats preprocessing as a **Quality Assurance system** rather than a quick cleanup. This design ensured clean inputs, zero leakage, and a workflow that was far easier to test, debug, and improve.
+This was where I saw that engineering beats algorithms. Clean, well-designed features consistently outperformed complex models on raw data. The core strength of this project lies in a carefully structured five-stage data pipeline that treats preprocessing as a **Quality Assurance system** rather than a quick cleanup. This design ensured clean inputs, zero leakage, and a workflow that was far easier to test, debug, and improve.
 
 ### 🧩 Pipeline Architecture
 
@@ -60,9 +59,6 @@ def preprocess_pipeline(train_df, test_df):
     df = step_5_transformation(df)     # 5. Transformation: Stabilises variance via outlier capping
     return train_df, test_df
 ```
-
-### 💡 **Reflection:**
-This was where I saw that engineering beats algorithms. Clean, well-designed features consistently outperformed complex models on raw data. The modular pipeline made debugging simple and fast, and treating preprocessing as a real engineering system became the key advantage behind the project’s success.
 
 -----
 
