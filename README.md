@@ -4,6 +4,7 @@
 [![Award & Credits](https://img.shields.io/badge/Award_&_Credits-View_Letter-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](Acknowledgment_Letter.pdf)
 
 [![Case Study](https://img.shields.io/badge/Case_Study-Read_the_page-111111?style=for-the-badge)](https://racheltran184.github.io/Python-Project-1/)
+
 [![Python](https://img.shields.io/badge/Python-XGBoost_·_LightGBM_·_SHAP-3776AB?style=for-the-badge&logo=python&logoColor=white)](#how-to-run)
 
 **Pricing Melbourne's short stays.** A price model for 7,000 Airbnb listings that placed 1st of 105 teams in a Kaggle competition, a post-competition check of where its error came from, and what the gap between a listing's price and its fair price tells hosts, guests, platforms and policy makers.
